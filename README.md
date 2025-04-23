@@ -25,7 +25,7 @@ _(More extensions coming soon!)_
 
 Jump in and register your domain by visiting our site:
 
-➡️ [US.KG Registry](https://nic.us.kg/)
+➡️ [DigitalPlat FreeDomain Dashboard](https://dash.domain.digitalplat.org/)
 
 ---
 

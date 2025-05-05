@@ -16,8 +16,8 @@ DigitalPlat is fiscally sponsored by The Hack Foundation, a 501(c)(3) nonprofit 
 
 - **.DPDNS.ORG**
 - **.US.KG**
-- **.QZZ.IO** (Coming Soon)
-- **.XX.KG** (Coming Soon)
+- **.QZZ.IO**
+- **.XX.KG**
 
 _(More extensions coming soon!)_
 

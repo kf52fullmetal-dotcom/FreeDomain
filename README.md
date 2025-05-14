@@ -29,6 +29,8 @@ Jump in and register your domain by visiting our site:
 
 ➡️ [DigitalPlat FreeDomain Dashboard](https://dash.domain.digitalplat.org/)
 
+📝 [Read our full tutorial (work in progress)](./documents/tutorial/getting-started/1-register-account.md)
+
 ---
 
 ### 🌟 Trusted by Thousands
@@ -39,7 +41,7 @@ With over 200,000 domains already registered, DigitalPlat FreeDomain is a truste
 
 ### ❔ FAQ
 
-Check [FAQ Page](./documents/faq.md)
+Check [FAQ Page](./documents/domains/faq.md)
 
 ---
 

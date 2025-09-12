@@ -9,7 +9,7 @@ You can use it with virtually any DNS management system! Just input the provided
 #### Do I need add star for this project?
 You don't have to do this, but if you add a star, we would be deeply grateful! It helps more people discover the project. Since this is a non-profit initiative, let's work together to make the internet a more open and free place! Thank you!
 
-#### Cloudflare supprt?
+#### Cloudflare support?
 Yes — we fully support Cloudflare!
 You can seamlessly use our domain with all of Cloudflare’s features, including DNS management, CDN, DDoS protection, and SSL.
 

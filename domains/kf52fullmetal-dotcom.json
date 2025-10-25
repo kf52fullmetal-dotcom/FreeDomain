@@ -1,0 +1,11 @@
+{
+  "description": "Oracle Cloud Osaka Test Server",
+  "domain": "kf52fullmetal-dotcom.fr.to",
+  "subdomain": "",
+  "owner": {
+    "email": "kf52.fullmetal@gmail.com"
+  },
+  "record": {
+    "A": ["138.2.37.213"]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "description": "My personal n8n server",
+  "domain": "yourname.is-a.dev",
+  "subdomain": "",
+  "owner": {
+    "email": "kf52.fullmetal@gmail.com"
+  },
+  "record": {
+    "A": ["xxx.xxx.xxx.xxx"]   // OracleのサーバIPを後で入れる
+  }
+}
